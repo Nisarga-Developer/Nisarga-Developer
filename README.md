@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Nisarga! <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="35px"></h1>
 <p align="center">
   <center>
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
+    
+![Profile Views] (https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
 
 ## Currently Listening To 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&redirect=true)

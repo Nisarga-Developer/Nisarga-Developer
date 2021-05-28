@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning ReactJS, Java & NodeJS 
-- 😄 I'm Still Learning Git & GitHub
+- 😄 I'm still learning Git & GitHub
 - 🥰 Java Lover
 - ⚜️ I am a high school student studying in Class 9th
 - 💬 Ask me about anything [here](https://github.com/nisarga-developer/nisarga-developer/issues) or [on Telegram](https://telegram.me/Nisarga_Adhikary)

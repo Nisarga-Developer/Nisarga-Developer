@@ -30,5 +30,13 @@ Hello I am Nisarga Adhikary. I am a passionate 14 year old full stack developer 
 ![Nisarga's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisarga-developer&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarga-developer&layout=compact)](https://github.com/nisarga-developer)
 
-
+## Connect
+Facebook - https://www.facebook.com/nisarga.adhikary
+Reddit - https://www.reddit.com/user/NisargaCodez
+Twitter - https://twitter.com/AdhikaryNisarga
+GitHub - https://github.com/Nisarga-Developer
+Spotify - http://tiny.cc/NisargaSpotify
+Discord - NisargaCodez#3080
+Telegram - https://telegram.me/Nisarga_Adhikary
+ 
   </center>

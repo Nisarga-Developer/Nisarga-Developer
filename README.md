@@ -8,6 +8,7 @@ Hello I am Nisarga Adhikary. I am a passionate 14 year old full stack developer 
     
 - 🌱 I’m currently learning ReactJS, Java & NodeJS 
 - 😄 I'm still learning Git & GitHub
+- 😎 I'm super active on GitHub, Discord, Gitter & Telegram
 - 🥰 Java Lover
 - ⚜️ I am a high school student studying in Class 9th
 - 💬 Ask me about anything [here](https://github.com/nisarga-developer/nisarga-developer/issues) or [on Telegram](https://telegram.me/Nisarga_Adhikary)

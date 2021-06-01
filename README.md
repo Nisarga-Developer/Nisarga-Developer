@@ -17,8 +17,6 @@ Hello I am Nisarga Adhikary. I am a passionate 14 year old full stack developer 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
   </center>
   <center>
 

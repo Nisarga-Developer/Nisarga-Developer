@@ -21,6 +21,10 @@ Hello I am Nisarga Adhikary. I am a passionate 14 year old full stack developer 
    <img align="right" alt="GIF" src="https://data.whicdn.com/images/279524285/original.gif" width="500"/>
  
   </center>
+ <p>
+  
+  
+  </p>
     
 ## Currently Listening To 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=2g78prniwnob6e44but33jbyq&redirect=true)

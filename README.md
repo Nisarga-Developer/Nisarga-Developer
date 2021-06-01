@@ -14,7 +14,9 @@ Hello I am Nisarga Adhikary. I am a passionate 14 year old full stack developer 
 - 💬 Ask me about anything [here](https://github.com/nisarga-developer/nisarga-developer/issues) or [on Telegram](https://telegram.me/Nisarga_Adhikary)
  
     
-    <p> </p>
+<<p>&nbsp;</p>
+ <p>&nbsp;</p>
+ <p>&nbsp;</p>
     </center>
   <center>
 

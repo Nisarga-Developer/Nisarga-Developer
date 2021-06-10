@@ -2,7 +2,6 @@
 <p align="center">
  
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
- <img align="right" alt="GIF" src="https://data.whicdn.com/images/279524285/original.gif" width="500"/>
  
 Hello I am Nisarga Adhikary. I am a passionate 14 year old full stack developer & high school student from India. I know HTML, CSS, JS, ReactJS, NodeJS, Java, PHP, Kotlin, Python & Blockly. I am always trying to add a new language in the list. I am also a bookworm. I make apps for Android & iOS too. I'm learning to make bots for Discord & Telegram.
     

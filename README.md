@@ -15,7 +15,7 @@ Hello I am Nisarga Adhikary. I am a passionate 14 year old full stack developer 
  
     
  ## Stats
-![Nisarga's GitHub stats](https://next-github-tau.vercel.app/api/card?username=nisarga-developer)](https://github.com/nisarga-developer)
+![Nisarga's GitHub stats](https://next-github-tau.vercel.app/api/card?username=nisarga-developer)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarga-developer&layout=compact)](https://github.com/nisarga-developer)
 
